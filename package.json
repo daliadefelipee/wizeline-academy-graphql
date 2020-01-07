@@ -1,0 +1,22 @@
+{
+  "name": "wizeline-academy-graphql",
+  "version": "1.0.0",
+  "description": "Wizeline Academy GraphQL workshop",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/daliadefelipee/wizeline-academy-graphql.git"
+  },
+  "keywords": [
+    "graphql"
+  ],
+  "author": "Dalia De Felipe",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/daliadefelipee/wizeline-academy-graphql/issues"
+  },
+  "homepage": "https://github.com/daliadefelipee/wizeline-academy-graphql#readme"
+}
